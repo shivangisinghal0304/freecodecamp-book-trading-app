@@ -14,6 +14,7 @@ You can view the live demo here: https://stark-basin-36303.herokuapp.com/
 * I can add a new book.
 * I can update my settings to store my full name, city, and state.
 * I can propose a trade and wait for the other user to accept the trade.
+* I can manage a record of my books, for future references too.
 
 Link to the freecodecamp project - https://www.freecodecamp.com/challenges/manage-a-book-trading-club
 
